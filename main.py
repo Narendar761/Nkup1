@@ -35,10 +35,10 @@ getstatusoutput(f"wget {photo1} -O 'photo.jpg'")
 photo = "photo.jpg"
 
 credit ="😎𝖘cᾰ𝗺𝗺ⲉ𝗿:)™~" 
-OWNER = int(os.environ.get("OWNER", 7326397503))      #replace your user id 
+OWNER = int(os.environ.get("OWNER", 819861991))      #replace your user id 
 # try: 
 #     ADMINS=[] 
-#     for x in (os.environ.get("ADMINS", "7326397503 5702090016").split()):     ##replace your user id  (for multiple userid use white space) e.g. "123456 987456" <<- two userid ka example haa yee 
+#     for x in (os.environ.get("ADMINS", "819861991").split()):     ##replace your user id  (for multiple userid use white space) e.g. "123456 987456" <<- two userid ka example haa yee 
 #         # jitni userid dalni ha usti daloo ...
 #         ADMINS.append(int(x)) 
 # except ValueError: 
