@@ -12,5 +12,5 @@ RUN apk update \
     && pip install --no-cache-dir -r requirements.txt 
  
 # Run both Gunicorn and the Python script 
-CMD gunicorn app:app & python3 main.py
+CMD gunicorn app:app & python3 bot.py
 
